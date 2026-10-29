@@ -1,0 +1,11 @@
+﻿Particle_Size,Sample_Type,Water_Added_ml,Volumetric_Moisture_%,Moisture_Voltage_V,Moisture_ADC_12bit,Temperature_degC,Temperature_ADC_12bit,Soil_pH,Soil_pH_ADC_12bit,EC_raw_uS_cm,EC_compensated_25C_uS_cm,EC_ADC_12bit
+<300 µm,Oven-Dried Pure Soil (<300 µm),0.0,0.0,2.835,3518,25.0,2303,6.68,1954,138.0,138.0,283
+<300 µm,Oven-Dried Pure Soil (<300 µm),2.5,28.15,2.31,2867,24.4,2273,6.73,1969,390.5,395.0,800
+<300 µm,Oven-Dried Pure Soil (<300 µm),5.0,63.4,1.745,2165,23.85,2245,6.78,1983,628.0,642.0,1286
+<300 µm,Oven-Dried Pure Soil (<300 µm),7.5,85.2,1.425,1768,23.3,2216,6.83,1998,759.6,785.0,1555
+<300 µm,Oven-Dried Pure Soil (<300 µm),10.0,94.1,1.305,1619,22.75,2188,6.87,2009,799.3,835.0,1637
+<600 µm,Oven-Dried Pure Soil (<600 µm),0.0,0.0,2.765,3431,25.0,2303,6.89,2015,108.0,108.0,221
+<600 µm,Oven-Dried Pure Soil (<600 µm),2.5,31.2,2.185,2711,24.5,2278,6.92,2024,358.6,362.0,734
+<600 µm,Oven-Dried Pure Soil (<600 µm),5.0,68.5,1.665,2066,23.95,2250,6.96,2036,664.5,678.0,1361
+<600 µm,Oven-Dried Pure Soil (<600 µm),7.5,91.1,1.37,1700,23.4,2222,7.01,2050,819.3,845.0,1678
+<600 µm,Oven-Dried Pure Soil (<600 µm),10.0,98.4,1.265,1570,22.85,2193,7.04,2059,874.7,912.0,1791
