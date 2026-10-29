@@ -213,23 +213,6 @@ Open the firmware in the development environment used by the project, select the
 - A virtual spectrometer and Digital Twin do not replace independent laboratory verification.
 - Reported inference latency depends on the deployed model and firmware configuration.
 
-## Future Work
-
-- Expand testing to additional soil textures and mineral compositions.
-- Collect repeated scans and independently prepared samples.
-- Improve sensor calibration and measurement uncertainty characterization.
-- Investigate additional polymers and more realistic contamination conditions.
-- Evaluate generalization on unseen samples and experimental conditions.
-- Document model conversion and on-device memory and latency measurements.
-- Add data provenance, model versioning, and clear measured-versus-predicted labels to the dashboard.
-
-## Citation
-
-Add the formal citation for the project report, including its title, authors, institution, and year.
-
-## Acknowledgements
-
-Add the relevant institution, laboratory, supervisor, collaborators, and equipment support.
 
 ## License
 
